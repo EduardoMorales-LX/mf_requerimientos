@@ -46,6 +46,17 @@ Para ver el diseño completo accede al prototipo semifuncional en [Figma®](http
 
 ---
 
+## Créditos
+
+Los créditos siguientes corresponden a las imágenes utilizadas en el diseño UI/UX
+
+-   [Banner - Foto de fondo del inicio (Foto de Andrea Piacquadio)](https://www.pexels.com/es-es/foto/empresario-de-cultivos-firmando-contrato-en-office-3771097/)
+-   [Foto de la sección de tecnología (Foto de Kevin Ku)](https://www.pexels.com/es-es/foto/anteojos-de-cultivo-negro-delante-de-la-computadora-portatil-577585/)
+-   [Foto de la sección de medio ambiente (Foto de Pixabay)](https://www.pexels.com/es-es/foto/cascadas-en-el-bosque-460621/)
+-   [Foto de la sección de familiar (Foto de Migs Reyes)](https://www.pexels.com/es-es/foto/foto-de-familia-feliz-4205505/)
+
+---
+
 > ### **_Nota_**
 >
 > _Aunque una **toma de requerimientos** se debe **realizar a través de instrumentos** como entrevistas, cuestionarios u otros que se deben realizar al cliente; este caso se nos pidio realizar una toma de requerimientos con base sólo en lo enunciado anteriormente_
